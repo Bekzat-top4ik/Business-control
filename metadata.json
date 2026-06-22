@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Business Management System",
+  "description": "A comprehensive multi-tenant business management platform for inventory tracking, POS sales, expenses, CRM, employee performance, and AI-powered stock insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
